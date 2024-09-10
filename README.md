@@ -14,17 +14,17 @@ Prepared a dashboard to analyze Personal Finances
   - Why?: Debts may have been repaid earlier or are not due in these months.
   - Improvement: Use debt-free months to save or pay off future debts faster.
 
-3. Income Below Target (May, Jul, Sep, Oct, Dec):
+2. Income Below Target (May, Jul, Sep, Oct, Dec):
   - Why?: Likely seasonal income fluctuations or drops in side income.
   - Improvement: Build savings in high-income months or diversify income sources.
 
-4. Differences in Main & Side Income (Jan, Apr, Nov):
-  Why?: Side income spikes due to special projects or seasonal work.
-  Improvement: Aim to smooth out side income with consistent opportunities.
+3. Differences in Main & Side Income (Jan, Apr, Nov):
+  - Why?: Side income spikes due to special projects or seasonal work.
+  - Improvement: Aim to smooth out side income with consistent opportunities.
 
-5. Housing is the Highest Expense, Except in Jan & Feb (Transportation Highest):
-  Why?: Housing is a fixed cost, and transportation costs spike in early months.
-  Improvement: Reduce transport costs by using alternatives; optimize housing costs with energy savings or refinancing. 
+4. Housing is the Highest Expense, Except in Jan & Feb (Transportation Highest):
+  - Why?: Housing is a fixed cost, and transportation costs spike in early months.
+  - Improvement: Reduce transport costs by using alternatives; optimize housing costs with energy savings or refinancing. 
 
 # Suggestions:
 - Debt Strategy: Use surplus from no-debt months to repay high-interest debt.
